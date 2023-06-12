@@ -1,16 +1,19 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=C3E5AE&text=ChaeSuHyeon&fontColor=ffffff&animation=fadeIn)
-<!-- ### Hi there 👋 -->
-
+<!-- ### Hi there 👋 --> 
+  
+ #### 💼 I'm Working on
+  Sweetk (2022.04.18 ~ )
+  
   #
 ### ⚔ My Skills (High -> Low)
   #
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -52,7 +55,11 @@
 
 #### 📧 Contact
 <div align="center">
-  <a href="ddd8177@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%88%98%ED%98%84-%EC%B1%84-1238b2255/)]([https://www.linkedin.com/in/seong-yun-byeon-8183a8113/](https://www.linkedin.com/in/%EC%88%98%ED%98%84-%EC%B1%84-1238b2255/))
+  
+   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ddd8177@gmail.com)](mailto:ddd8177@gmail.com)
+  
 </div>
   
   <br/>
