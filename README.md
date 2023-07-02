@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=C3E5AE&text=ChaeSuHyeon&fontColor=ffffff&animation=fadeIn)
 <!-- ### Hi there 👋 --> 
   
- #### 💼 I'm Working on
+ #### 💼 I work for
   Sweetk (2022.04.18 ~ )
   
   <br/>
@@ -35,7 +35,7 @@
   <br/>
   
   
-### 📘 I’m currently Interesting  ...
+### 📘 I’m currently Interested in  ...
   #
 <div align="center">
   <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
